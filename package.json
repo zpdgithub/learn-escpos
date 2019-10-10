@@ -1,0 +1,15 @@
+{
+  "name": "learn-escpos",
+  "version": "1.0.0",
+  "description": "escpos小票打印机无驱打印",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["escpos", "小票打印机", "无驱打印"],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "escpos": "2.5.2"
+  }
+}
